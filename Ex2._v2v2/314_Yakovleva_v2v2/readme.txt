@@ -1,0 +1,1 @@
+https://www.shadertoy.com/view/fssXW8База + мягкие тени + анти-алиасинг + куб-мап
