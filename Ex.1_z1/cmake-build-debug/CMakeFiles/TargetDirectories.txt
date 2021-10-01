@@ -1,0 +1,3 @@
+/home/alex/msu_cmc_cg_2021-master-template1_cpp/template1_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/msu_cmc_cg_2021-master-template1_cpp/template1_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/msu_cmc_cg_2021-master-template1_cpp/template1_cpp/cmake-build-debug/CMakeFiles/main.dir
